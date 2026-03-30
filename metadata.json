@@ -1,0 +1,5 @@
+{
+  "name": "BIM Designer",
+  "description": "Plataforma de diseño paramétrico multi-material con generación de planos técnicos acotados y análisis BIM.",
+  "requestFramePermissions": []
+}
