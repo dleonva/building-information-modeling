@@ -245,7 +245,7 @@ export default function App() {
 
     pdf.text('INGENIERO RESPONSABLE:', margin + 105, stampY + 10);
     pdf.setFont('helvetica', 'bold');
-    pdf.text(process.env.USER_EMAIL || 'correodavidlv@gmail.com', margin + 105, stampY + 18);
+    pdf.text(process.env.USER_EMAIL || 'correo', margin + 105, stampY + 18);
     
     pdf.setFont('helvetica', 'normal');
     pdf.text('FECHA:', margin + 155, stampY + 8);
